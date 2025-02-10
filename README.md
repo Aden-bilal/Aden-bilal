@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aden Bilal</h1>
-<h3 align="center">Read Teamer</h3>
+<h3 align="center">Red Teamer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
